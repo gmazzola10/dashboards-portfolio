@@ -32,5 +32,5 @@ _(Próximamente)_
 ## 🙋‍♂️ Sobre mí
 
 Soy analista de datos con experiencia en visualización, automatización y marketing analytics.  
-🔗 [LinkedIn]([https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/gabrielmazzola/))
+🔗 [LinkedIn](https://www.linkedin.com/in/gabrielmazzola/)
 
