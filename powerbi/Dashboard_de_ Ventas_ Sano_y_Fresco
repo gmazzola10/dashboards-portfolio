@@ -1,0 +1,34 @@
+🥑 Dashboard de Ventas – Sano y Fresco (Power BI)
+Este tablero interactivo en Power BI fue desarrollado para analizar el comportamiento de ventas y preferencias de productos en una tienda de alimentos saludables llamada Sano y Fresco.
+
+🧾 Principales KPIs:
+💶 Total de Ventas: €39.854.875
+
+👥 Total de Clientes: 181.903
+
+🧺 Ticket Medio por Pedido: €19.3
+
+🧍‍♂️ Ticket Medio por Cliente: €219.1
+
+📦 Productos Diferentes por Pedido: 2.42
+
+🧃 Promedio de Cantidad por Pedido: 5.02
+
+📊 Análisis Incluidos:
+Evolución mensual de las ventas (destacándose enero con €6.7M).
+
+Productos con mayor cantidad de unidades vendidas, como Banana, Espinacas Orgánicas y Fresas Orgánicas.
+
+Ranking de productos por ventas totales (ej. Bolsa de Bananas Orgánicas lidera con más de €4.8M).
+
+Reglas de asociación tipo Market Basket Analysis utilizando Lift y Confianza para descubrir productos frecuentemente comprados juntos.
+Ejemplo: "Aguacate Hass Orgánico" ➡ Limón Orgánico (Lift = 23).
+
+🔍 Tecnologías utilizadas:
+Power BI Desktop
+
+Visualizaciones personalizadas
+
+DAX para cálculos y KPIs
+
+Segmentaciones por categoría de producto y mes
