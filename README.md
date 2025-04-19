@@ -17,7 +17,7 @@ Cada dashboard resuelve una problemática distinta y muestra mis habilidades en 
 
 ---
 
-## 🟢 Power BI
+## 🟡 Power BI
 
 🥑 **Sano y Fresco - Análisis de Ventas**  
 📍 [Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWEwZGI1ZTEtY2MwYi00OWU5LTgwN2ItMmEyNjAyZGUyYzdmIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9)  
@@ -29,7 +29,7 @@ Cada dashboard resuelve una problemática distinta y muestra mis habilidades en 
 
 ---
 
-## 🟡 Looker Studio
+## 🟢 Looker Studio
 
 _(Próximamente)_
 
