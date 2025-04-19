@@ -20,6 +20,7 @@ Cada dashboard resuelve una problemática distinta y muestra mis habilidades en 
 ## 🟢 Power BI
 
 🥑 Sano y Fresco - Análisis de Ventas
+
 📍 [Ver Dashboard en Power Bi]([https://public.tableau.com/app/profile/gabriel8055/viz/AirBnBFullProject_17443022959360/Dashboard2?publish=yes](https://app.powerbi.com/view?r=eyJrIjoiZWEwZGI1ZTEtY2MwYi00OWU5LTgwN2ItMmEyNjAyZGUyYzdmIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9)) 
 📁 [`/powerbi`](powerbi/)  
 
