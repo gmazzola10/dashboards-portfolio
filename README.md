@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm Gabriel Agustín Mazzola</h1>
+<h3 align="center">DData Analyst | Business-Oriented | Marketing Data Expert</h3>
+
+- 🔭 I’m currently working on **Freelances Projects**
+
+- 🌱 I’m currently learning **Power BI, Tableau, SQL, Paid Media and data-driven growth strategies.**
+
+- 👯 I’m looking to collaborate on **Freelance projects in data analysis, dashboards, and performance marketing Let’s connect and explore how I can help.**
+
+- 🤝 I’m looking for help with [Expanding my freelance network and connecting with clients or collaborators](https://www.linkedin.com/in/gabrielmazzola/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/gabrielmazzola](https://github.com/gabrielmazzola)
+
+- 💬 Ask me about **Google Ads, Meta Ads, SQL, Python, Looker Studio, dashboards, and campaign optimization.**
+
+- 📫 How to reach me **gbrmazzola@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
 # 📊 Dashboards Portfolio
 
 Bienvenido a mi portafolio de dashboards interactivos.  
