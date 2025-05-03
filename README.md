@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI, Tableau, SQL, Paid Media and data-driven growth strategies.**
 
-- 👯 I’m looking to collaborate on **Freelance projects in data analysis, dashboards, and performance marketing Let’s connect and explore how I can help.**
+- 👯 I’m looking to collaborate on **projects in data analysis, dashboards, and performance marketing Let’s connect and explore how I can help.**
 
 - 🤝 I’m looking for help with [Expanding my freelance network and connecting with clients or collaborators](https://www.linkedin.com/in/gabrielmazzola/)
 
